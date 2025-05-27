@@ -5,7 +5,6 @@
  
 Looking to collaborate on using Raspberry-pi **AI detection of crash, fire and weapon that alerts the system**
 
-- 🤝 Need help in **Blockchain technology**
 
 - 📫 Feel free to reach me<br><br>
           🫎  **Leelaambika.ds.ai@gmail.com** <br><br>
