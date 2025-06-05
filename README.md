@@ -77,9 +77,9 @@ Looking to collaborate on using Raspberry-pi **AI detection of crash, fire and w
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
     </a>
           <br><br>
-</p>
-    <a href="https://buymeacoffee.com/Leelaambika.Nandhakumar">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-    </a> 
+//</p>
+    //<a href="https://buymeacoffee.com/Leelaambika.Nandhakumar">
+        //<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+    //</a> 
   
    
