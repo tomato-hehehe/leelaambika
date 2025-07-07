@@ -3,14 +3,10 @@
 
  Learning & Working on **AI/ML**
  
-Looking to collaborate on using Raspberry-pi **AI detection of crash, fire and weapon that alerts the system**
 
 
-- 📫 Feel free to reach me<br><br>
-          🫎  **Leelaambika.ds.ai@gmail.com** <br><br>
-           <a href="https://linkedin.com/in/leelaambika-nandhakumar">
-                  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-             </a> <br>
+
+- 📫 Feel free to reach me<br>
 
   <br>
 
@@ -90,5 +86,4 @@ Looking to collaborate on using Raspberry-pi **AI detection of crash, fire and w
 </p>
 
 
-![SUNSHINE](https://komarev.com/ghpvc/?username=leelaambika)
 
